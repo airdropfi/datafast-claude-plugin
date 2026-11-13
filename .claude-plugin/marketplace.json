@@ -1,0 +1,23 @@
+{
+  "name": "datafast-plugins",
+  "description": "Claude Code plugins from DataFast (datafast.app).",
+  "owner": {
+    "name": "DataFast",
+    "email": "support@datafast.app",
+    "url": "https://datafast.app"
+  },
+  "plugins": [
+    {
+      "name": "datafast",
+      "source": "./plugins/datafast",
+      "description": "DataFast is revenue-first web analytics: it shows which traffic sources, campaigns and pages bring paying customers, and an AI assistant can read those numbers for you over MCP. Read-only access you approve and can revoke.",
+      "category": "analytics",
+      "tags": [
+        "analytics",
+        "mcp",
+        "revenue",
+        "traffic"
+      ]
+    }
+  ]
+}

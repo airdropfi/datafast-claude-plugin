@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "DataFast plugin for Claude Code"
+abstract: "DataFast is revenue-first web analytics: it shows which traffic sources, campaigns and pages bring paying customers, and an AI assistant can read those numbers for you over MCP. Read-only access you approve and can revoke."
+authors:
+  - name: "DataFast"
+    website: "https://datafast.app"
+repository-code: "https://github.com/airdropfi/datafast-claude-plugin"
+url: "https://datafast.app/mcp"
+license: MIT
+version: 1.0.0
+keywords:
+  - mcp
+  - model-context-protocol
+  - web-analytics
+  - revenue-attribution
+  - ai-agents
+  - claude-code

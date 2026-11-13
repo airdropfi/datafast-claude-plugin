@@ -1,0 +1,25 @@
+{
+  "name": "datafast",
+  "displayName": "DataFast",
+  "version": "1.0.0",
+  "description": "DataFast is revenue-first web analytics: it shows which traffic sources, campaigns and pages bring paying customers, and an AI assistant can read those numbers for you over MCP. Read-only access you approve and can revoke.",
+  "author": {
+    "name": "DataFast",
+    "email": "support@datafast.app",
+    "url": "https://datafast.app"
+  },
+  "homepage": "https://datafast.app/mcp",
+  "repository": "https://github.com/airdropfi/datafast-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "web analytics",
+    "revenue attribution",
+    "traffic",
+    "mcp",
+    "ai agent"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://datafast.app/mcp",
+  "supportUrl": "https://datafast.app/mcp",
+  "privacyPolicyUrl": "https://datafast.app/privacy"
+}
